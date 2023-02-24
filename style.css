@@ -1,0 +1,44 @@
+.container{
+    max-width: 1440px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.text{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.card{
+    border-radius: 1rem;
+  border: 3px solid;
+}
+.fa-solid{
+    width: 5rem;
+   display: block;
+   margin: auto;
+  font-size: 3rem;
+
+}
+.cards{
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    flex-wrap: wrap;
+}
+.card{
+    padding: 6rem;
+}
+#comment{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5rem;
+}
